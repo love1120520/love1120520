@@ -31,3 +31,10 @@
 ## ⚡ Fun Fact
 - 我相信「說到做到」比花俏的話術更有力量。  
 - I believe “Delivering on promises” is more powerful than fancy words.  
+## 📊 GitHub Stats
+![love1120520's GitHub stats](https://github-readme-stats.vercel.app/api?username=love1120520&show_icons=true&theme=radical)
+
+## 🛠 技能 Skills
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
