@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @love1120520
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m love1120520  
 
-<!---
-love1120520/love1120520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 關於我
+- 專注於 **資金服務顧問 / 網站建置**  
+- 協助個人與中小企業，提供 **合法、明確、實際** 的資金解決方案  
+- 我們不是財團，也不是平台，只是一群願意站在客戶角度思考的專業顧問  
+
+## 🌱 正在學習
+- APP 開發與網站優化  
+- 自動化行銷與資料分析  
+
+## 🤝 尋找合作
+- 貸款服務 / 行銷合作  
+- 官網建置 / APP 客製化  
+
+## 📫 聯絡我
+- 📞 電話：0905-036-378  
+- 📱 LINE：[@aa0905036378](https://line.me/ti/p/@aa0905036378)  
+- 🌐 官網：[www.love08571120.com](https://www.love08571120.com)  
+
+## ⚡ Fun Fact
+- 我相信「說到做到」比花俏的話術更有力量。  
