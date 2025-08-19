@@ -25,7 +25,9 @@
 
 ## 📫 聯絡我 Contact Me
 - 📞 Phone：0905-036-378  
-- 📱 LINE：[@aa0905036378](https://line.me/ti/p/@aa0905036378)  
+- 📱 LINE：[@aa0905036378](https://line.me/ti/p/@aa0905036378)
+- 📱 LINE：[@love08571120https://line.me/ti/p/@love08571120
+- 
 - 🌐 Website：[www.love08571120.com](https://www.love08571120.com)  
 
 ## ⚡ Fun Fact
