@@ -1,7 +1,8 @@
-# 👋 Hi, I’m love1120520  
-
+# 👋 Hi, I’m 甯葳
 ## 🚀 關於我 About Me
-- 專注於 **資金服務顧問 / 網站建置**  
+- 專注於 **資金服![ai_logo_1768826991_W0Ltk6dark_ai_logo](https://github.com/user-attachments/assets/a4af0a3b-b74b-457f-9a2d-ffde062d2e9f)
+![ai_logo_1768826991_2lh5Fl0](https://github.com/user-attachments/assets/bed58c4e-4212-48d1-8f5e-a8958b0a9ad1)
+務顧問 / 網站建置**  
 - 協助個人與中小企業，提供 **合法、明確、實際** 的資金解決方案  
 - 我們不是財團，也不是平台，只是一群願意站在客戶角度思考的專業顧問  
 ---
